@@ -9,5 +9,6 @@ def opening():
     fileres.write('\n'.join(res))
     fileres.close()
 opening()
+:)
 
     
